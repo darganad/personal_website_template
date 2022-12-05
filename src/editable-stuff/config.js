@@ -5,7 +5,7 @@ const navBar = {
 
 // Main Body SECTION
 const mainBody = {
-  gradientColors: "#4484ce, #ff7f7f, #ecf0f1",
+  gradientColors: "#ff7f7f, #ecf0f1",
   firstName: "Aditya",
   middleName: "",
   lastName: "Dargan",
@@ -56,7 +56,7 @@ const about = {
   message:
     ("Hi I'm Aditya and I'm a technologist with Machine Learning engineering and \
     Backend engineering experience in a variety of industries (finance, e-commerce and cyber security). \
-    I'm actively exploring entreprenural ideas in the AI, Web3 and Fintech space "),
+    I'm actively exploring entrepreneurial ideas in the AI, Web3 and Fintech space. "),
   resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
@@ -138,12 +138,12 @@ const experiences = {
   data: [
     {
       role: 'Machine Learning Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
+      companylogo: require('../assets/img/panw.png'),
       date: 'August 2021 – June 2022',
     },
     {
       role: 'Software Engineer',
-      companylogo: require('../assets/img/boeing.png'),
+      companylogo: require('../assets/img/audible.png'),
       date: 'May 2017 – May 2018',
     },
   ]
